@@ -48,9 +48,8 @@ const Home = () => {
                 </h1>
                 <p>Opportunist | Believer | Tech Enthusiast</p>
                 <p>
-                  A software engineer living in who works with js and related
-                  technologies like React, React Native typescript and many
-                  more...
+                  A software engineer who works with js and related technologies
+                  like React, React Native Typescript and many more...
                 </p>
                 <p>A Potter head and a marvel fan</p>
               </div>
@@ -66,9 +65,10 @@ const Home = () => {
                     Flyfin
                   </a>{' '}
                   over web, leading a focussed team over growth of the product
-                  and overall cutomer accusition, building software to get max
+                  and overall cutomer acquisition, building software to get max
                   reach of the product.
                 </p>
+                s
               </div>
             </div>
             <div className="section bg-sub p-4 px-8">

@@ -16,8 +16,8 @@ function MyApp({ Component, pageProps }: AppProps) {
         <title>Tapan Awasthi</title>
         <meta
           name="description"
-          content="A software engineer living in who works with js and related
-                  technologies like React, React Native typescript and many
+          content="A software engineer who works with js and related
+                  technologies like React, React Native Typescript and many
                   more... A Potter head and a marvel fan"></meta>
         <meta name="title" content="Tapan Awasthi"></meta>
         <meta
@@ -29,8 +29,8 @@ function MyApp({ Component, pageProps }: AppProps) {
 
         <meta
           property="og:description"
-          content="A software engineer living in who works with js and related
-                  technologies like React, React Native typescript and many
+          content="A software engineer who works with js and related
+                  technologies like React, React Native Typescript and many
                   more... A Potter head and a marvel fan"
         />
 
