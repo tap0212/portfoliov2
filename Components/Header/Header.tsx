@@ -8,9 +8,11 @@ interface HeaderProps {
 const Header: FC<HeaderProps> = ({ navBarBgc = 'bg-black' }) => (
   <div
     className={`sticky w-full h-16 backdrop-blur-sm top-0 p-4 px-8 flex items-center justify-between z-50 ${navBarBgc}`}>
-    <h1 className="text-xl cursor-pointer font-bold text-white">@tap0212</h1>
+    <h1 className="z-50 text-xl cursor-pointer font-bold text-white">
+      @tap0212
+    </h1>
 
-    <div className="flex items-center justify-between w-48">
+    <div className="z-50 flex items-center justify-between w-48">
       <a href="https://twitter.com/TapanAwasthi2">
         <Twitter />
       </a>
