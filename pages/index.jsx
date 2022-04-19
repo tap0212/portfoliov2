@@ -73,15 +73,17 @@ const Home = () => {
             </div>
             <div className="section bg-sub p-4 px-8">
               <div className="w-full flex justify-center items-center flex-col">
-                <div className="flex items-center justify-between w-2/5">
-                  <a href="https://twitter.com/TapanAwasthi2">
-                    <Twitter />
+                <div className="flex items-center justify-between w-1/4">
+                  <a className="w-10" href="https://twitter.com/TapanAwasthi2">
+                    <Twitter className="w-full h-full" />
                   </a>
-                  <a href="https://www.linkedin.com/in/tapan-awasthi02">
-                    <LinkedIn />
+                  <a
+                    className="w-10"
+                    href="https://www.linkedin.com/in/tapan-awasthi02">
+                    <LinkedIn className="w-full h-full" />
                   </a>
-                  <a href="https://github.com/tap0212">
-                    <Github />
+                  <a className="w-10" href="https://github.com/tap0212">
+                    <Github className="w-full h-full" />
                   </a>
                 </div>
                 <p className="text-white font-light my-4">
