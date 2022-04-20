@@ -68,7 +68,6 @@ const Home = () => {
                   and overall cutomer acquisition, building software to get max
                   reach of the product.
                 </p>
-                s
               </div>
             </div>
             <div className="section bg-sub p-4 px-8">

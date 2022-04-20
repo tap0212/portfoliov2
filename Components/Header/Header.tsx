@@ -7,7 +7,8 @@ interface HeaderProps {
 
 const Header: FC<HeaderProps> = ({ navBarBgc = 'bg-black' }) => (
   <div
-    className={`sticky w-full h-16 backdrop-blur-sm top-0 p-4 px-8 flex items-center justify-between z-50 ${navBarBgc}`}>
+    style={{ position: 'sticky', zIndex: 5000 }}
+    className={`w-full h-16 backdrop-blur-sm top-0 p-4 px-8 flex items-center justify-between${navBarBgc}`}>
     <h1 className="z-50 text-xl cursor-pointer font-bold text-white">
       @tap0212
     </h1>
